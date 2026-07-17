@@ -7,5 +7,5 @@ print(x+y)
 
 print(x-y)
 
-community git puhh 1010101
+print(x*y)
 
